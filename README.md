@@ -12,13 +12,21 @@ Also included is a sample .reg file you can use to force FindMimeFromData to rec
 ## Win API Functions used:
 
 CloseHandle
+
 CreateFile
+
 FindMimeFromData
+
 GetTimeZoneInformation
+
 OutputDebugString
+
 QueryPerformanceCounter
+
 QueryPerformanceFrequency
+
 ReadFile
+
 RpcStringFree
 RtlMoveMemory
 Sleep
