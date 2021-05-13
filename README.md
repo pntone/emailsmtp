@@ -8,3 +8,21 @@ EmailSMTP uses Cryptlib, an open source library to communicate with the server u
 Please note that the Win API function CryptBinaryToString used to base64 encode non-text attachments requires Win XP, Win Server 2003 or later.
 
 Also included is a sample .reg file you can use to force FindMimeFromData to recognize an oddball file extension as plain ANSI text. Just edit the file and change all occurrences of 'ext' to your file extension. If a text file is not recognized as text, it will be sent base64 encoded. This won't hurt anything but it will make the file 33% larger.
+
+##Win API Functions used:
+
+CloseHandle
+CreateFile
+FindMimeFromData
+GetTimeZoneInformation
+OutputDebugString
+QueryPerformanceCounter
+QueryPerformanceFrequency
+ReadFile
+RpcStringFree
+RtlMoveMemory
+Sleep
+UuidCreateSequential
+UuidToString
+
+Plus those in in the Winsock object
