@@ -1,0 +1,23 @@
+﻿$PBExportHeader$p_build_exe32.srj
+EXE:emailsmtp32.exe,,0,1,1
+CMP:0,0,0,2,0,0,1
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:emailsmtp_126.pbl,,0
+OBJ:D:\PBSource\WebExamples_New\EmailSMTP\emailsmtp_126.pbl,emailsmtp,a
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,n_smtp64,u
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,w_main,w
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,u_tabpg_smtp,u
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,u_tab,u
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,u_tab_main,u
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,n_winsock,u
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,u_tabpg_settings,u
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,u_tabpg,u
+OBJ:d:\pbsource\webexamples_new\emailsmtp\emailsmtp_126.pbl,n_smtp,u
